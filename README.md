@@ -1,7 +1,5 @@
 ## This was for a YouTube tutorial
 
-https://www.youtube.com/watch?v=pTinipkJBcs
-
 ### To follow along clone the start branch
 
 ```sh
