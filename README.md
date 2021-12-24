@@ -3,8 +3,8 @@
 ### To follow along clone the start branch
 
 ```sh
-git clone -b start git@github.com:lesterfernandez/privateroutes-tutorial.git
-cd privateroutes-tutorial
+git clone git@github.com:lesterfernandez/privateroutes-tutorial.git
+cd privateroutes-tutorial -b start
 ```
 
 ```sh
